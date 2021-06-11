@@ -1,2 +1,3 @@
 sskskd
-este es mi documento de practica de git
+este es mi segundo documento de practica de git
+jajaj ah te creas 
