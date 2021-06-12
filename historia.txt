@@ -2,3 +2,5 @@ sskskd
 este es mi segundo documento de practica de git
 jajaj ah te creas 
 y aqui va el cambio de vida
+
+un dia de estos sere un gran programador
