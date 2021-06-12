@@ -1,9 +1,18 @@
 body{
-    text-align: center;
+    text-align: left;
     font-size: small;
     color: brown;
 }
+
 #primer{
     color: blueviolet;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#cabecera{
+    text-align: center;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    color: rgb(0, 102, 255);
+
 }
