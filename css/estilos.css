@@ -9,10 +9,13 @@ body{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 #cabecera{
-    text-align: center;
+    text-align: left;
     font-size: large;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    
-    color: rgb(0, 102, 255);
+    background-color: rgb(53, 119, 177);
+    color: rgb(40, 40, 41);
+    /* padding-left: 20px; */
+    padding: 20px;
+    font-size: 0.5cm;
 
 }
